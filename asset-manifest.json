@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.82e9a8c3.css",
+    "main.js": "/static/js/main.34d09ae5.js",
+    "static/media/avatar1.jpg": "/static/media/avatar1.712ae3eadd1f272f05f4.jpg",
+    "static/media/avatar2.jpg": "/static/media/avatar2.68b9aceb8482e4453641.jpg",
+    "static/media/avatar4.jpg": "/static/media/avatar4.8524a5e2cd3cb81f23cc.jpg",
+    "static/media/avatar3.jpg": "/static/media/avatar3.00dadc443b4a9f52b2b5.jpg",
+    "static/media/me.png": "/static/media/me.049581b2e63b46ab034d.png",
+    "static/media/bg-texture2.jpg": "/static/media/bg-texture2.34b13af353db1ffcb9f5.jpg",
+    "static/media/me-about.png": "/static/media/me-about.ad54c2a97164955b9bd0.png",
+    "static/media/pharmacy.jpeg": "/static/media/pharmacy.3d419212c346bf57cdb5.jpeg",
+    "static/media/breaking_bad.jpeg": "/static/media/breaking_bad.f7b3f73d137cc1742f3a.jpeg",
+    "static/media/protect_me.jpeg": "/static/media/protect_me.1a6b01b2e72409202bda.jpeg",
+    "static/media/cv.pdf": "/static/media/cv.d8b8c84e542e585c8753.pdf",
+    "index.html": "/index.html",
+    "main.82e9a8c3.css.map": "/static/css/main.82e9a8c3.css.map",
+    "main.34d09ae5.js.map": "/static/js/main.34d09ae5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82e9a8c3.css",
+    "static/js/main.34d09ae5.js"
+  ]
+}
